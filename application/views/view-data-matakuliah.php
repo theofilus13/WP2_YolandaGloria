@@ -2,7 +2,7 @@
 <head>
     <title>Tampil Data Matakuliah</title>
 </head>
-<body>
+ <body>
      <center>
         <table>
             <tr>
