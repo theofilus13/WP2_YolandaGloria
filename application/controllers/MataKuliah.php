@@ -5,7 +5,7 @@
  {
     $this->load->view('view-form-matakuliah');
  }
-     public function cetak()
+   public function cetak()
  {
     $data = [
     'kode' => $this->input->post('kode'),
